@@ -1,0 +1,9 @@
+.home {
+  width: 90%;
+  max-width: 43rem;
+  padding: 1rem;
+  border-radius: 12px;
+  background-color: white;
+  margin: 3rem auto;
+  height: 550px;
+}
